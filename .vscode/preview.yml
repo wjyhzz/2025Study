@@ -1,7 +1,7 @@
 # .vscode/preview.yml
 autoOpen: false # 打开工作空间时是否自动开启所有应用的预览
 apps:
-  - port: 3000 # 应用的端口
+  - port: 3000 # 应用的端口号
     run: g++ main.cpp -o main && ./main # 应用的启动命令
     root: ./ # 应用的启动目录
     name: my-first-app # 应用名称
