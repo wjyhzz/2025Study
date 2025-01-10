@@ -1,2 +1,7 @@
-# 2025Study
-记录
+[TOC]
+
+```
+g++ main.cpp -o main.exe
+
+./main.exe
+```
