@@ -2,5 +2,5 @@
 
 int main(){
     std::cout<<"hello world!"<<std::endl;//输出
-    return 0;
+    return 0;//test
 }
