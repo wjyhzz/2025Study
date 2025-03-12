@@ -10,3 +10,5 @@ g++ main.cpp -o main.exe
 
 ./main.exe
 ```
+
+断电调试快捷键：F9
