@@ -1,6 +1,5 @@
-#include<iostream>
-
+#include<stdio.h>
 int main(){
-    std::cout<<"hello world!"<<std::endl;//输出
+    printf("Hello World!\n");
     return 0;//test
 }
